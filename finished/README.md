@@ -11,5 +11,3 @@ pnpm dev
 ```
 
 Feel free to use the code in your own projects.
-# gsap-preloader
-# gsap-preloader
